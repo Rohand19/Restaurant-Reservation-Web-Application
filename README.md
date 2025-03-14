@@ -43,7 +43,7 @@ A modern web application that allows customers to make restaurant reservations o
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/restaurant-reservation-system.git
+git clone https://github.com/Rohand19/restaurant-reservation-system.git
 cd restaurant-reservation-system
 ```
 
@@ -77,16 +77,6 @@ npm run dev
 
 6. Open your browser and navigate to http://localhost:5173
 
-## 📸 Screenshots
-
-### Homepage
-![Homepage](https://i.imgur.com/example1.png)
-
-### Reservation Form
-![Reservation Form](https://i.imgur.com/example2.png)
-
-### Success Page
-![Success Page](https://i.imgur.com/example3.png)
 
 ## 📝 How to Use
 
